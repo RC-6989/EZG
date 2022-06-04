@@ -1,3 +1,6 @@
+#Gesture Controll for Windows
+#Code by Rohit Chavali, Maurya Panchal, and Rishit Chavali
+
 import cv2
 import mediapipe as mp
 import numpy as np
